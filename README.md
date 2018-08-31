@@ -4,14 +4,14 @@
 **Author**: YiMing Chen<br /><br />
 **Author**: Junkai Cai<br /><br />
 
-#How to make:
+# How to make:
 1. Unzip the code.zip
 2. Go to the folder NQueen, run 
 ```
 make all
 ```
 
-#How to run:
+# How to run:
 1. After make, run the program by
 ```
 ./nqueen arg1 arg2 arg3 arg4 arg5 arg6 arg7
